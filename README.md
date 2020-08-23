@@ -1,4 +1,4 @@
-# MA3105
+# MA-3105
 MA3105 is an 4-credit elective offered to third year students by the Department of Mathematics and Statistics(DMS) at IISER Kolkata. It focuses on computational numerical analysis which has immense applications in various fields. 
 
 It encompasses the following aspects-
